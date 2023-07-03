@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-Welcome to my portfolio! This collection showcases a selection of my data science and machine learning projects. Each project demonstrates my skills and expertise in handling real-world datasets, applying various algorithms and techniques, and deriving meaningful insights. 
+Welcome to my portfolio! This collection showcases a selection of my data analysis projects. Each project demonstrates my skills and expertise in handling real-world datasets, applying various algorithms and techniques, and deriving meaningful insights. 
 
 In this portfolio, you will find a diverse range of projects covering different domains and problem areas. Each project includes a detailed description, the dataset used, the methodologies employed, and the results obtained. Additionally, I have provided code snippets and visualizations to showcase the implementation and analysis process.
 
